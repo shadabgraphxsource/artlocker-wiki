@@ -1,0 +1,5 @@
+﻿# No external dependencies needed for basic scripts
+# Add below if you extend the tools later:
+# rich==13.7.0        ← pretty terminal output
+# watchdog==4.0.0     ← auto-watch raw/ for new files
+# click==8.1.7        ← CLI commands

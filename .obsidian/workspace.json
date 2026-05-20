@@ -206,6 +206,12 @@
   },
   "active": "04c9858f1907bd50",
   "lastOpenFiles": [
+    "tools/requirements.txt",
+    "tools/log.py",
+    "tools/lint.py",
+    "tools/search.py",
+    "tools/ingest.py",
+    "tools",
     "Untitled.md",
     "Welcome.md",
     "templates/daily-template.md",
@@ -228,11 +234,6 @@
     "wiki/index.md",
     "schema",
     "wiki/sources",
-    "wiki/entities",
-    "wiki/queries",
-    "wiki/concepts",
-    "wiki",
-    "raw/requirements",
-    "raw/meeting-notes"
+    "wiki/entities"
   ]
 }
