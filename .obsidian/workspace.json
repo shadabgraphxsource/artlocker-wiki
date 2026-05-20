@@ -201,6 +201,13 @@
   },
   "active": "e077839f9045c975",
   "lastOpenFiles": [
+    "wiki/entities/Collection.md",
+    "wiki/entities/Artist.md",
+    "wiki/entities/Artwork.md",
+    "schema/query-template.md",
+    "schema/source-template.md",
+    "schema/concept-template.md",
+    "schema/entity-template.md",
     "schema/CLAUDE.md",
     "wiki/log.md",
     "wiki/index.md",
