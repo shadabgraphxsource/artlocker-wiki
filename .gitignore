@@ -1,3 +1,10 @@
-# Ignore Obsidian workspace settings (optional but recommended)
-echo ".obsidian/workspace.json" >> .gitignore
-echo ".obsidian/workspace-mobile.json" >> .gitignore
+# Visual Studio
+.vs/
+
+# Obsidian
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# OS
+.DS_Store
+Thumbs.db
