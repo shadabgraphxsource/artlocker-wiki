@@ -110,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Welcome"
             }
           },
           {
@@ -128,11 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Welcome"
             }
           },
           {
@@ -170,12 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Welcome.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Welcome"
             }
           }
         ]
@@ -196,8 +199,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "04c9858f1907bd50",
+  "active": "e077839f9045c975",
   "lastOpenFiles": [
+    "schema/CLAUDE.md",
+    "wiki/log.md",
+    "wiki/index.md",
+    "schema",
+    "wiki/sources",
+    "wiki/entities",
+    "wiki/queries",
+    "wiki/concepts",
+    "wiki",
+    "raw/requirements",
+    "raw/meeting-notes",
+    "raw/design",
+    "raw/assets",
     "Welcome.md"
   ]
 }
